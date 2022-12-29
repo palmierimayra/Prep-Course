@@ -4,17 +4,33 @@ html {
 img {
     width: 200px;
     height: 200px;
-    margin-top: 5%;
-    margin-left: 5%;
-
+    margin-left: 95px;
+    margin-right: 15px;
+    border: 2px solid deeppink;
+}
+aside{
+    font-size: 48px;
+    font-family: arial;
+    margin: 20px auto;
+    float:inline-start;
+    padding: 15px;
+    width: 50%;
 }
 #descPers{
     width: 200px;
+    float:left;
     margin-left: 5%;
     font-family: arial;
-    border: 2px solid salmon;
+    border: 2px solid deeppink;
     text-align: left;
+    font-size: 14px;
 }
 #expLab{
-    align-items: flex-end;
+    width: 800px;
+    float:inline-start;
+    margin-left: 20%;
+    font-family: arial;
+    border: 2px solid deeppink;
+    text-align: left;
+    font-size: 14px;
 }
