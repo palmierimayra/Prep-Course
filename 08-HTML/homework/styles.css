@@ -7,11 +7,20 @@ img{
 #thirdDiv{
     height: 600px;
     width: 500px;
-    background-color:aquamarine;
+    background-color:rgb(175, 175, 175);
     padding: 50px;
     border: 1px solid black;    
 }
 #spanId{
     font-size: 18px;
     margin: 50px;
+}
+html {
+    background-image:url(https://fondosmil.com/fondo/45451.jpg);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    margin: 0 auto;
 }
