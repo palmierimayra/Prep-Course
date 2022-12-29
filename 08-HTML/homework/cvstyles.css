@@ -1,0 +1,20 @@
+html {
+    background-image: url(https://img.freepik.com/fotos-premium/fondo-rosado-textura-marmol-textura-marmol-abstracta-modelos-naturales-diseno_41389-503.jpg?w=2000);
+}
+img {
+    width: 200px;
+    height: 200px;
+    margin-top: 5%;
+    margin-left: 5%;
+
+}
+#descPers{
+    width: 200px;
+    margin-left: 5%;
+    font-family: arial;
+    border: 2px solid salmon;
+    text-align: left;
+}
+#expLab{
+    align-items: flex-end;
+}
